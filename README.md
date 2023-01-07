@@ -12,4 +12,4 @@ important factors in predicting a Star rating of a review.
 
 ---
 
-This repo holds all the code from our project along with our paper. 
+This repo holds the code from our project along with our paper. 
